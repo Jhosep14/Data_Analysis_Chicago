@@ -5,7 +5,7 @@ This analysis was designed to help a Bike-Share Company in Chicago that needs to
 
 *Note: Due to big size of files, you can access to databases in the following link https://divvy-tripdata.s3.amazonaws.com/index.html* 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/WeexuZh-ayc))
+* [Software Demo Video](http://youtube.link.goes.here](https://youtu.be/WeexuZh-ayc)
 
 # Development Environment
 
